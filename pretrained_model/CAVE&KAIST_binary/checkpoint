@@ -1,0 +1,4 @@
+model_checkpoint_path: "CS_Saved_Model_2.cpkt"
+all_model_checkpoint_paths: "CS_Saved_Model_0.cpkt"
+all_model_checkpoint_paths: "CS_Saved_Model_1.cpkt"
+all_model_checkpoint_paths: "CS_Saved_Model_2.cpkt"
