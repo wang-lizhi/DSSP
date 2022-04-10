@@ -59,24 +59,24 @@ python Test_kaist.py
 The results of paper on [Harvard Dataset](http://vision.seas.harvard.edu/hyperspec/) and [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/). In this stage, the mask is randomly generated for each batch. And the size of patches is 48 * 48 * 31. In addition, only the central areas with 512* 512 * 31 are compared in testing.
 <table align="center">
    <tr align = "center">
-      <td></td>
-      <td colspan="2">Harvard</td>
-      <td colspan="2">ICVL</td>
+      <td width="200%"></td>
+      <td width="200%">Harvard</td>
+      <td width="200%">ICVL</td>
    </tr>
    <tr align = "center">
-      <td>PSNR</td>
-      <td colspan="2">32.84</td>
-      <td colspan="2">34.13</td>
+      <td width="200%">PSNR</td>
+      <td width="200%">32.84</td>
+      <td width="200%">34.13</td>
    </tr>
    <tr align = "center">
-      <td>SSIM</td>
-      <td colspan="2">0.979</td>
-      <td colspan="2">0.992</td>
+      <td width="200%">SSIM</td>
+      <td width="200%">0.979</td>
+      <td width="200%">0.992</td>
    </tr>
    <tr align = "center">
-      <td>SAM</td>
-      <td colspan="2">0.089</td>
-      <td colspan="2">0.028</td>
+      <td width="200%">SAM</td>
+      <td width="200%">0.089</td>
+      <td width="200%">0.028</td>
    </tr>
 </table>
 
