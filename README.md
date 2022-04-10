@@ -57,7 +57,7 @@ python Test_kaist.py
 ## Results
 ### 1. Reproducing Results on Harvard and ICVL Dataset
 The results of paper on [Harvard Dataset](http://vision.seas.harvard.edu/hyperspec/) and [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/). In this stage, the mask is randomly generated for each batch. And the size of patches is 48 * 48 * 31. In addition, only the central areas with 512* 512 * 31 are compared in testing.
-<table>
+<table align="center">
    <tr align = "center">
       <td></td>
       <td>Harvard</td>
@@ -87,10 +87,9 @@ For academic reference, we have added some comparisons with the latest methods o
       <td  rowspan="2"></td>
       <td>TSA</td>
       <td>DGSM</td>
-      <td>DSSP colspan="2"</td>
+      <td colspan="2">DSSP </td>
    </tr>
    <tr align = "center">
-      <td>MASK</td>
       <td>Real-mask</td>
       <td>Real-mask</td>
       <td>Real-mask</td>
@@ -130,3 +129,4 @@ If our code is useful in your reseach work, please consider citing our paper.
   year={2019}
 }
 ```
+
