@@ -60,23 +60,23 @@ The results of paper on [Harvard Dataset](http://vision.seas.harvard.edu/hypersp
 <table align="center">
    <tr align = "center">
       <td></td>
-      <td>Harvard</td>
-      <td>ICVL</td>
+      <td colspan="2">Harvard</td>
+      <td colspan="2">ICVL</td>
    </tr>
    <tr align = "center">
       <td>PSNR</td>
-      <td>32.84</td>
-      <td>34.13</td>
+      <td colspan="2">32.84</td>
+      <td colspan="2">34.13</td>
    </tr>
    <tr align = "center">
       <td>SSIM</td>
-      <td>0.979</td>
-      <td>0.992</td>
+      <td colspan="2">0.979</td>
+      <td colspan="2">0.992</td>
    </tr>
    <tr align = "center">
       <td>SAM</td>
-      <td>0.089</td>
-      <td>0.028</td>
+      <td colspan="2">0.089</td>
+      <td colspan="2">0.028</td>
    </tr>
 </table>
 
