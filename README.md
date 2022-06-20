@@ -85,8 +85,8 @@ For academic reference, we have added some comparisons with the latest methods o
 <table align="center">
    <tr align = "center">
       <td  rowspan="2"></td>
-      <td>[TSA](https://github.com/mengziyi64/TSA-Net/)</td>
-      <td>[DGSM](https://github.com/TaoHuang95/DGSMP)</td>
+      <td>TSA</td>
+      <td> DGSM </td>
       <td colspan="2">DSSP </td>
    </tr>
    <tr align = "center">
